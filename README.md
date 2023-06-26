@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# React Demo - LoadList (AirCnC Clone)
+
+This is a simple AirCnC experiences clone that's powered by react js. I am building this as a learning experience in my web development journey. 
+
+My aim here was to gain exposure to data-driven dynamic application development using react. My main focus here was to use *props* to pass JSX arrays that are mapped from a fake database (simulating a real-time environment) to render programmatic dynamic components.
+
+Below, you can find the generic servicing documentation for this application.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
